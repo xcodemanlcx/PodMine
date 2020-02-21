@@ -1,0 +1,16 @@
+PODS:
+  - PodA (0.1.0)
+
+DEPENDENCIES:
+  - PodA (from `Lib/PodA`)
+
+EXTERNAL SOURCES:
+  PodA:
+    :path: Lib/PodA
+
+SPEC CHECKSUMS:
+  PodA: c480cd4c4b20ce14622e5a4dd2f03feaff61b37b
+
+PODFILE CHECKSUM: 7dc904da5f187f7d19b6a3400e248629cabb7930
+
+COCOAPODS: 1.7.5
