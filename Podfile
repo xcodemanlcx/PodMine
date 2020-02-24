@@ -6,6 +6,10 @@ target 'PodMine' do
 #  use_frameworks!
 
   pod 'PodA', :path => 'Lib/PodA'
+  pod 'PodB', :path => 'Lib/PodB'
+  pod 'LCXPodB'
+  #, :path => 'Lib/LCXPodB'
+
   # Pods for PodMine
 
 end

@@ -1,0 +1,22 @@
+{
+  "name": "PodB",
+  "version": "0.0.1",
+  "summary": "short description for PodB.",
+  "description": "TODO: Add long description of PodB.",
+  "homepage": "https://github.com/xcodemanlcx/PodB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "475512103@qq.com": "leichunxiang58@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xcodemanlcx/PodB.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodB/Classes/**/*"
+}

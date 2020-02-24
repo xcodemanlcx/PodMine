@@ -1,9 +1,9 @@
 {
   "name": "PodA",
   "version": "0.1.0",
-  "summary": "A short description of PodA.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/475512103@qq.com/PodA",
+  "summary": "PodA short description.",
+  "description": "TODO: pod long description.",
+  "homepage": "https://github.com/xcodemanlcx/PodA",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "475512103@qq.com": "leichunxiang58@163.com"
   },
   "source": {
-    "git": "https://github.com/475512103@qq.com/PodA.git",
+    "git": "https://github.com/xcodemanlcx/PodA.git",
     "tag": "0.1.0"
   },
   "platforms": {

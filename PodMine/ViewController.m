@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import <PodAClass.h>
+#import <PodB/PodBClass.h>
 @interface ViewController ()
 
 @end
@@ -18,6 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [PodAClass test];
+    [PodBClass testB];
 }
 
 
